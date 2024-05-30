@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 1853803853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45250d39ae59a40f80fd9405f7cbe85a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00037.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00009.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00020.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00034.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00030.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00016.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00011.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00014.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00028.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00010.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00029.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00018.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00027.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00042.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00015.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00017.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00001.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00019.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00007.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00031.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00013.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00026.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00035.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00004.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00032.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00023.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00043.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00041.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00003.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00005.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00036.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00038.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00039.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00040.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00000.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00044.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00002.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00033.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00025.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00008.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00012.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00024.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00022.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00006.png
+- Assets/01_Resource/04_SequenceImage/05_TouchMe_Seq/Touchme_02/Touch me 02_00021.png
+Dependencies: []

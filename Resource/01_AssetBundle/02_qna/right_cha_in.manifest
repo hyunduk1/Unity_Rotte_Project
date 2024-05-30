@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 8343475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d59b9ae85db3694677f385c19af5a870
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00004.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00008.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00011.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00009.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00013.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00007.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00000.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00014.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00002.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00003.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00005.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00001.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00006.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00015.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00010.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/Right_Cha_in/Right_Cha_in_Loop_00012.png
+Dependencies: []

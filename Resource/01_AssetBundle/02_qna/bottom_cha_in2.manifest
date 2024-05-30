@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3622640267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ce1ba4eeda15951eff5fe225937acce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00005.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00032.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00013.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00028.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00010.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00026.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00035.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00008.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00003.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00007.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00025.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00006.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00030.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00009.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00022.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00016.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00002.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00031.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00015.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00011.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00029.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00000.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00024.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00004.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00036.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00019.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00034.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00018.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00014.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00017.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00001.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00021.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00012.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00033.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00027.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00020.png
+- Assets/01_Resource/04_SequenceImage/02_QnA/bottom_Cha_in2/bottom_Cha_in2_00023.png
+Dependencies: []
